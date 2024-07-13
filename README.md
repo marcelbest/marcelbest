@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelbest
 - 👀 I’m interested in web design, front end related code, and motorcycling
-- 🌱 I’m currently learning more about JavaScript and new ways on how to use it effectively
+- 🌱 I’m trying to learn something new every day
 - 📫 How to reach me marcelbest.com
 
 <!---
