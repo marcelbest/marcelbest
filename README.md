@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marcelbest
-- 👀 I’m interested in web design, front end related code, and motorcycling
+- 👀 I’m interested in web design, front end related code, drum and bass music, and motorcycling
 - 🌱 I’m trying to learn something new every day
 - 📫 How to reach me marcelbest.com
 
