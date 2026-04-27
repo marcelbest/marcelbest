@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @marcelbest
-- 👀 I’m interested in web design, front end related code, drum and bass music, and motorcycling
-- 🌱 I’m trying to learn something new every day
-- 📫 How to reach me marcelbest.com
+### Hi, I'm Marcel
+
+Web designer based in Fribourg, Switzerland. I build sites with care for craft, 
+performance, and the small details that make the web feel good.
+
+- Currently working with WordPress and Bootstrap
+
+—
+
+*This profile is mostly quiet. The work lives at [marcelbest.com](https://marcelbest.com).*
 
 <!---
 marcelbest/marcelbest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
