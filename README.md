@@ -1,13 +1,14 @@
 ### Hi, I'm Marcel
 
-Web designer based in Fribourg, Switzerland. I build sites with care for craft, 
+Web designer based in Fribourg, Switzerland. I build sites with care for craft,
 performance, and the small details that make the web feel good.
 
-- Currently working with WordPress and Bootstrap
+- WordPress, Bootstrap, SCSS, JavaScript
+- Structured Data & Semantic Markup
+- Thymeleaf (Java environment, day job)
 
 —
-
-*This profile is mostly quiet. The work lives at [marcelbest.com](https://marcelbest.com).*
+*This profile is mostly quiet. The work lives at [marcelbest.com](http://marcelbest.com).*
 
 <!---
 marcelbest/marcelbest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
